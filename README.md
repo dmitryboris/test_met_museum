@@ -19,4 +19,4 @@ macOS / Linux:
 
 5. Запуск тестов
 
-```pytest -v```
+```pytest```
