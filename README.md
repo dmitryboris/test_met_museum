@@ -8,9 +8,9 @@
 
 3. Активация виртуального окружения
 
-Windows:
-```venv\Scripts\activate```
-macOS / Linux:
+Windows:  
+```venv\Scripts\activate```  
+macOS / Linux:  
 ```source venv/bin/activate```
 
 5. Установка зависимостей
